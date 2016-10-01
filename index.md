@@ -10,7 +10,7 @@ possible with GitHub Pages. In just 3 simple steps, you will have your own
 website.
 
 1. [Create a Github account](https://github.com/join)
-2. [Fork this repository](https://github.com/steveortiz/tamuhack/fork)
+2. [Fork this repository](https://github.com/arpit2408/myIntro/fork)
 3. Edit the `_config.yml` file
 
 {% highlight yaml %}
@@ -18,11 +18,11 @@ title: Hack on GitHub Pages
 description: >
   This site will get you started hacking with GitHub Pages.
 baseurl: "/tamuhack" # the subpath of your site
-url: "https://steveortiz.github.io"
-email: steve@ortizaggies.com
-github_username:  steveortiz
-linkedin_username: trustycoder
-twitter_username: trustycoder
+url: "https://arpit2408.github.io"
+email: arpit2408@tamu.edu
+github_username:  arpit2408
+#linkedin_username: trustycoder
+#twitter_username: trustycoder
 {% endhighlight %}
 
 That's it! You should now have a website of your own.
